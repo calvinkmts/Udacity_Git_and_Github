@@ -13,3 +13,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 	you can check it using the git diff to get diff from the working directory
 	and the staging area
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	branches are useful when you are about to make experimental changes to your 
+	file. it helps so you don't break your file.
