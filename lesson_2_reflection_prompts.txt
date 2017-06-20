@@ -22,3 +22,9 @@ How do the diagrams help you visualize the branch structure?
 
 	it helps by giving you the connection between the commit, and when the branch
 	is made from(which commit).
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	the results are a progression to the master branch, it is represented as
+	diagram so we can easily spot the chronological order of the commit of each 
+	branch.
