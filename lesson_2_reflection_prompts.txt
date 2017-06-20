@@ -28,3 +28,11 @@ What is the result of merging two branches together? Why do we represent it in t
 	the results are a progression to the master branch, it is represented as
 	diagram so we can easily spot the chronological order of the commit of each 
 	branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	the pros are we don't need to check the conflicted manually because git 
+	will show it to us.
+
+	the cons are we have to check the file one by one and choose the best one 
+	in order to find which files we are going to use in the final product.
